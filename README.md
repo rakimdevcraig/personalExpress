@@ -15,7 +15,7 @@ the results before he decides his next team.
 
 ![pic](pic.jpg)
 
-Link to project:
+Link to project:https://rakimdevcraig.github.io/personalExpress/
 
 How It's Made:
 Tech used: HTML, CSS, Javascript, Node, Express, Mongo, Embedded Javascript
