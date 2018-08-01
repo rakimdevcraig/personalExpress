@@ -5,8 +5,7 @@
 
 ## Usage
 
-1. run `node server.js`
-2. Navigate to `localhost:7000`
+https://peaceful-basin-46817.herokuapp.com/
 
 Who Should Lebron James sign to?
 
